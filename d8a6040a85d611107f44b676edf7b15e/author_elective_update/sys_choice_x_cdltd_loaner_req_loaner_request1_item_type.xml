@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="item_type" table="x_cdltd_loaner_req_loaner_request1" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>item_type</element>
+            <name>x_cdltd_loaner_req_loaner_request1</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 15:03:05</sys_created_on>
+            <sys_id>6c460c9b851255107f44b676edf7b188</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>item_type</sys_name>
+            <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">d8a6040a85d611107f44b676edf7b15e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Loaner Request">d8a6040a85d611107f44b676edf7b15e</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_loaner_req_loaner_request1_item_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 15:03:05</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Laptop</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request1</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 15:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>28460c9b851255107f44b676edf7b188</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 15:03:05</sys_updated_on>
+            <value>cmdb_ci_computer</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Mobile Phone</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request1</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 15:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e4460c9b851255107f44b676edf7b18b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 15:03:05</sys_updated_on>
+            <value>cmdb_ci_mobile_device</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>item_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Projector</label>
+            <language>en</language>
+            <name>x_cdltd_loaner_req_loaner_request1</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-10-07 15:03:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a8460c9b851255107f44b676edf7b18d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-10-07 15:03:05</sys_updated_on>
+            <value>cmdb_ci_projector</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
